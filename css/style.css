@@ -63,7 +63,8 @@ h3 {
 	border-top: 70px solid red;
 }
 
-/* Ace */
+
+
 #ace {
     height: 300px;
     width: 200px;
@@ -78,4 +79,56 @@ h3 {
 }
 
 
+#king {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 30px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
 
+#queen {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left:55px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
+
+
+
+#jack {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left:80px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
+
+#ten {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 105px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
